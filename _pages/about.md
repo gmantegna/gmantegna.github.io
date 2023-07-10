@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student at Princeton University, where I research energy systems engineering and policy. My research is focused on developing methods for electric grid planning that will help to increase the resilience of the electric grid to climate change, and also better prepare us for deeply uncertain factors such as changes in demand, technological development, and cost. I employ methods from energy economics, systems engineering, risk analysis, and operations research.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I previously worked at Energy and Environmental Economics (E3), a consulting firm based in San Francisco, where I advised state agencies and electric utilities on their decarbonization plans. While at E3, I helped the California Public Utilities Commission integrate the air quality impacts of electric generation into their decision making process, and I advised the California Air Resources Board on their Climate Change Scoping Plan process. I was also a principal developer of the PATHWAYS and RESOLVE models for energy system planning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of work, I greatly enjoy planning piano, riding bikes, sailing, and photography. You can check out some of my photography using the link at the top of the page.
+
+My email is gabe.mantegna@princeton.edu. Please feel free to reach out if you would like to collaborate!

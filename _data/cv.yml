@@ -2,96 +2,74 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Gabriel Alesandro Mantegna
     - name: Languages
-      value: English, German
+      value: English, Elementary French
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Mechanical and Aerospace Engineering
+      institution: Princeton University, Princeton, NJ, USA
+      year: 2027 (Expected)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Coursework and research on energy systems engineering and policy.
+        - Advised by Prof. Jesse Jenkins.
+    - title: BS in Environmental Engineering
+      institution: Johns Hopkins University, Baltimore, MD, USA
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
+        - Minor in Earth and Planetary Science.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Researcher
+      institution: Princeton University, Princeton, NJ, USA
+      year: 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Researcher on methods for electric grid planning that will increase resilience to climate change, and better incorporate uncertainty.
+    - title: Senior Consultant
+      institution: Energy and Environmental Economics, San Francisco, CA, USA
+      year: 2019-2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Consultant to state energy agencies and electric utilities on evaluating pathways for deep decarbonization.
+        - Led development of an updated PATHWAYS model for economy wide energy system planning.
+        - Worked on development of the RESOLVE capacity expansion model.
+    - title: Engineer and Grants Manager
+      institution: Manta Biofuel, Owings Mills, MD, USA
+      year: 2017-2018
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Researched, designed, built, and tested improvements to the company's core algae harvesting technology.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2017
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Faculty Award for Service and Academic Achievement in Environmental Health and Engineering, Johns Hopkins University
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Energy economics
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Capacity markets
+        - Electricity market design
+        - Decision theory
+    - title: Energy systems engineering
       items:
-        - Description 1.
-        - Description 2.
+        - Sequential decision analytics
+        - Risk analysis
+        - Climate change resilience
+    - title: Environmental justice
+      items:
+        - Energy equity
+        - Community engaged energy systems research
+        - Natural resource impacts of energy system development
+
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Piano, Cycling, Sailing
